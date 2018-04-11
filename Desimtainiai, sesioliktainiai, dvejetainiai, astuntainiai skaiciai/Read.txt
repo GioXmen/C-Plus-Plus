@@ -1,0 +1,3 @@
+Konvertuoja bet kokio tipo skaiciu, i bet koki tipa ( gali buti ir su kableliu)
+skaiciu ilgis turi limitaciju
+Nenaudota "pagalbininku/funkciju/biblioteku"

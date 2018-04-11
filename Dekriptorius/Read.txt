@@ -1,0 +1,1 @@
+Pagal HEX reiksmes ir decryptor.bin instrukcijas, dekriptina zinute tekstiniame faile.
